@@ -1,6 +1,6 @@
 
-let PLUG_URL = "https://plugs.syzygy.academy?key="+PLUG_KEY;
-let DOOR_URL = "https://card.syzygy.academy/?card="+DOOR_CARD+"&key="+DOOR_KEY;
+let PLUG_URL = "https://plugs.syzygysf.com/?key="+PLUG_KEY;
+let DOOR_URL = "https://card.syzygysf.com/?card="+DOOR_CARD+"&key="+DOOR_KEY;
 
 function send_command(url, callback)
 {
